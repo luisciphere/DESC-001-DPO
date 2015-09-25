@@ -9,3 +9,7 @@
 .top-logo {
   float: left;
 }
+
+.nav li {
+  display: inline;
+}
